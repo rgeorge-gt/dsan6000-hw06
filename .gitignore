@@ -1,0 +1,9 @@
+.DS_Store
+.venv
+.venv/*
+*.parquet
+*.pkl
+data/*.parquet
+data/*.pkl
+__pycache__
+__pycache__/*
